@@ -1,0 +1,5 @@
+ccxt
+openai
+requests
+urllib3
+certifi
